@@ -1,0 +1,9 @@
+LTO_ENABLE = yes # reduces size
+COMMAND_ENABLE = no # only set to yes for debugging purposes
+CONSOLE_ENABLE = no # only set to yes for debugging purposes
+EXTRAKEY_ENABLE = yes
+MOUSEKEY_ENABLE = yes
+RGB_MATRIX_ENABLE = yes
+SWAP_HANDS_ENABLE = no
+MUSIC_ENABLE = no
+VIA_ENABLE = yes
